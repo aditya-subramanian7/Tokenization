@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.0.0-beta.0",
+    "@truffle/hdwallet-provider": "^2.0.1"
+  },
+  "name": "tokenization",
+  "version": "1.0.0",
+  "description": "A simple application for setting up a crowdsale",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
